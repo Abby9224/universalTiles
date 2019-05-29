@@ -3524,6 +3524,15 @@ ul {
     margin-top: 400px;
   }
 }
+/* Adding media query to fix the about_part margin-top issue in mobile version */
+@media (max-width: 378px) {
+  /* line 180, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
+  .about_part .about_text {
+    padding-left: 0px;
+    /* margin-top: 20px; */
+    margin-top: 400px;
+  }
+}
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 180, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
