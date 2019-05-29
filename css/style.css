@@ -2503,6 +2503,11 @@ ul {
   padding-top: 0rem;
 }
 
+/* Fixing the logo size issue */
+.navbar-brand > img {
+  max-width: 200px;
+}
+
 /* line 7, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .main_menu .navbar {
   padding: 12px 0px;
