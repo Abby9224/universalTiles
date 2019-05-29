@@ -3520,7 +3520,8 @@ ul {
   /* line 180, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_text {
     padding-left: 0px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
+    margin-top: 400px;
   }
 }
 
